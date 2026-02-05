@@ -12,6 +12,12 @@
     </strong>
     <br />
     <br />
+    <a href="https://github.com/VoltAgent/awesome-clawdbot-skills">📖 Original Project</a> |
+    <a href="https://moltskills.org">🌐 Browse Online</a> |
+    <a href="README.md">🇨🇳 中文版本</a> |
+    <a href="关于本项目.md">ℹ️ About</a>
+    <br />
+    <br />
 </div>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
