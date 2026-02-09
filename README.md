@@ -581,6 +581,7 @@ npx clawdhub@latest install <skill-slug>
 - [apple-mail-search](https://github.com/clawdbot/skills/tree/main/skills/gumadeiras/apple-mail-search-safe/SKILL.md) - 快速且安全的 Apple Mail 搜索，支持正文内容检索。
 - [beeper](https://github.com/clawdbot/skills/tree/main/skills/krausefx/beeper/SKILL.md) - 搜索并浏览本地 Beeper 聊天记录（线程、消息、全文搜索）。
 - [camelcamelcamel-alerts](https://github.com/clawdbot/skills/tree/main/skills/jgramajo4/camelcamelcamel-alerts/SKILL.md) - 通过RSS监控CamelCamelCamel价格下降提醒，并在商品降价时发送Telegram通知。
+- [clawdtalk](https://github.com/team-telnyx/clawdtalk-client) - OpenClaw 的电话和短信功能。从任何电话拨打您的 AI 代理，支持日历、Jira、网络搜索等深度工具集成。由 Telnyx 提供支持。
 - [discord-doctor](https://github.com/clawdbot/skills/tree/main/skills/jhillock/discord-doctor/SKILL.md) - 快速诊断和修复 Discord 机器人、Gateway、OAuth 令牌及旧版配置问题。
 - [google-chat](https://github.com/clawdbot/skills/tree/main/skills/darconada/google-chat/SKILL.md) - 通过 webhook 或 OAuth 向 Google Chat 空间和用户发送消息。
 - [himalaya](https://github.com/clawdbot/skills/tree/main/skills/lamelas/himalaya/SKILL.md) - 通过 IMAP/SMTP 管理邮件的 CLI 工具。使用 `himalaya` 可实现列出、阅读、撰写、回复、转发和搜索邮件。
